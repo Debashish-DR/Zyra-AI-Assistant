@@ -1,0 +1,250 @@
+[
+    {
+        "role": "user",
+        "content": "hello"
+    },
+    {
+        "role": "assistant",
+        "content": "Hello Debashish"
+    },
+    {
+        "role": "user",
+        "content": "hello"
+    },
+    {
+        "role": "assistant",
+        "content": "Hello again"
+    },
+    {
+        "role": "user",
+        "content": "hello zyra"
+    },
+    {
+        "role": "assistant",
+        "content": "I'm not Zyra, I'm None, your AI chatbot."
+    },
+    {
+        "role": "user",
+        "content": "what are you doing"
+    },
+    {
+        "role": "assistant",
+        "content": "I'm chatting with you, Debashish."
+    },
+    {
+        "role": "user",
+        "content": "what is the time"
+    },
+    {
+        "role": "assistant",
+        "content": "The time is 3:00:07 AM."
+    },
+    {
+        "role": "user",
+        "content": "thank you so much"
+    },
+    {
+        "role": "assistant",
+        "content": "You're welcome"
+    },
+    {
+        "role": "user",
+        "content": "who are you"
+    },
+    {
+        "role": "assistant",
+        "content": "I'm None, an AI chatbot."
+    },
+    {
+        "role": "user",
+        "content": "hello Zyra"
+    },
+    {
+        "role": "assistant",
+        "content": "I'm actually Zyra, your AI chatbot."
+    },
+    {
+        "role": "user",
+        "content": "who are you"
+    },
+    {
+        "role": "assistant",
+        "content": "I'm Zyra, an advanced AI chatbot."
+    },
+    {
+        "role": "user",
+        "content": "can i call you zyra"
+    },
+    {
+        "role": "assistant",
+        "content": "Yes, you can call me Zyra."
+    },
+    {
+        "role": "user",
+        "content": "can you help me "
+    },
+    {
+        "role": "assistant",
+        "content": "I'll do my best to help you, Debashish."
+    },
+    {
+        "role": "user",
+        "content": "who is debashish"
+    },
+    {
+        "role": "assistant",
+        "content": "You are Debashish, the person I'm chatting with."
+    },
+    {
+        "role": "user",
+        "content": "who is namita"
+    },
+    {
+        "role": "assistant",
+        "content": "I don't have information about Namita, you didn't mention her before."
+    },
+    {
+        "role": "user",
+        "content": "who is elon musk"
+    },
+    {
+        "role": "assistant",
+        "content": "Elon Musk is a business magnate and entrepreneur, known for founding companies like SpaceX and Tesla."
+    },
+    {
+        "role": "user",
+        "content": "thank you zyra"
+    },
+    {
+        "role": "assistant",
+        "content": "You're welcome, Debashish."
+    },
+    {
+        "role": "user",
+        "content": "what's my name"
+    },
+    {
+        "role": "assistant",
+        "content": "Your name is Debashish."
+    },
+    {
+        "role": "user",
+        "content": "you know my age?"
+    },
+    {
+        "role": "assistant",
+        "content": "No, I don't know your age."
+    },
+    {
+        "role": "user",
+        "content": "then remember i am 22 years old"
+    },
+    {
+        "role": "assistant",
+        "content": "I've noted that you're 22 years old, Debashish."
+    },
+    {
+        "role": "user",
+        "content": "ok"
+    },
+    {
+        "role": "assistant",
+        "content": "Alright."
+    },
+    {
+        "role": "user",
+        "content": "what's my age?"
+    },
+    {
+        "role": "assistant",
+        "content": "You're 22 years old, Debashish."
+    },
+    {
+        "role": "user",
+        "content": "what's the time"
+    },
+    {
+        "role": "assistant",
+        "content": "The time is 03:08:56 AM."
+    },
+    {
+        "role": "user",
+        "content": "what's the date"
+    },
+    {
+        "role": "assistant",
+        "content": "The date is September 2, 2025, Tuesday."
+    },
+    {
+        "role": "user",
+        "content": "who is debasish"
+    },
+    {
+        "role": "assistant",
+        "content": "According to the search results, there are several individuals with the name Debasish, including: \nDebasish Kumar, a member of the West Bengal Legislative Assembly, \nDebashish Mohanty, a former Indian cricketer, \nDebasish Mridha, an American physician, philosopher, and author, \nDebasish Mallick, a former Deputy Managing Director of EXIM Bank of India. \nHowever, I also know that you, the person I'm chatting with, are Debashish, a 22-year-old individual."
+    },
+    {
+        "role": "user",
+        "content": "who is debashish"
+    },
+    {
+        "role": "assistant",
+        "content": "According to the search results, Debashish refers to several individuals, including Debashish Mohanty, a former Indian cricketer, and Debashish Bhattacharya, an Indian musician, as well as Debashish Samantaray, an Indian politician. Additionally, I know that you, the person I'm chatting with, are Debashish, a 22-year-old individual."
+    },
+    {
+        "role": "user",
+        "content": "remeber my full name is Debashish Rout"
+    },
+    {
+        "role": "assistant",
+        "content": "I remember that your full name is Debashish Rout."
+    },
+    {
+        "role": "user",
+        "content": "who is Debashish Rout"
+    },
+    {
+        "role": "assistant",
+        "content": "According to the search results, there are a few individuals with the name Debashish Rout, including a B.Tech student in Computer Science, and a person who describes themselves as a \"rebel poet in a fitness freak's body\". Additionally, I know that you, the person I'm chatting with, are Debashish Rout, a 22-year-old individual."
+    },
+    {
+        "role": "user",
+        "content": "ok goodbye"
+    },
+    {
+        "role": "assistant",
+        "content": "It seems you've said \"ok goodbye\". I found some information related to this phrase. There's a song called \"OK GOODBYE\" by Jyotica Tangri, feat. Aman Singh Deep, released on January 9, 2023. Additionally, another song with a similar title, \"OK Goodbye (Feat. Lee Hyungeun)\", is available on Spotify, released in 2020 by 015B and Lee Hyung Eun. If you'd like to know more about these songs or anything else, feel free to ask. Otherwise, it was nice chatting with you, Debashish Rout. Goodbye!"
+    },
+    {
+        "role": "user",
+        "content": "what is the stock price of apple"
+    },
+    {
+        "role": "assistant",
+        "content": "According to the search results, the current stock price of Apple is as follows: \nThe day's open is $232.51, \nthe closing price is $232.14, \nthe intraday high is $233.38, \nand the intraday low is $231.37. \nAdditionally, the 52-week high is $260.10, and the 52-week low is $169.21. \nPlease note that these prices may have changed since the last update, and it's always a good idea to check the current prices for the most up-to-date information."
+    },
+    {
+        "role": "user",
+        "content": "ok"
+    },
+    {
+        "role": "assistant",
+        "content": "You said \"ok\". According to the search results, \"ok\" is an English word that denotes approval, acceptance, agreement, assent, acknowledgment, or a sign of indifference. It can be used in various contexts, such as responding to a question or statement, or expressing agreement or confirmation. Is there anything else you'd like to know or discuss, Debashish Rout?"
+    },
+    {
+        "role": "user",
+        "content": "goodbye"
+    },
+    {
+        "role": "assistant",
+        "content": "I found some information related to \"goodbye\". There's a 2022 Indian Hindi-language family comedy-drama film called \"Goodbye\" written and directed by Vikas Bahl. Additionally, Sabrina Carpenter has a song called \"Goodbye\" with an official lyric video available on YouTube. If you're looking for more information on these or anything else, feel free to ask. Otherwise, it was nice chatting with you, Debashish Rout. Goodbye!"
+    },
+    {
+        "role": "user",
+        "content": "what is the time"
+    },
+    {
+        "role": "assistant",
+        "content": "The current time is 3:51:06 AM, on Tuesday, September 2, 2025."
+    }
+]

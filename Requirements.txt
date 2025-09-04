@@ -1,0 +1,46 @@
+# Core AI and APIs
+cohere
+groq
+mtranslate
+edge-tts
+
+# Chatbot and automation
+AppOpener
+pywhatkit
+keyboard
+pygame
+PyQt5
+
+# Web scraping and automation
+beautifulsoup4
+requests
+selenium
+webdriver-manager
+googlesearch-python
+
+# Utilities
+pillow
+rich
+python-dotenv
+
+
+
+
+
+# python-dotenv
+# groq
+# AppOpener
+# pywhatkit
+# bs4
+# pillow
+# rich
+# requests
+# keyboard
+# cohere
+# googlesearch-python
+# selenium
+# mtranslate
+# pygame
+# edge-tts
+# PyQt5
+# webdriver-manager
